@@ -30,10 +30,11 @@ public static void main (String args[]) {
 		if (j == i-1) {
 			System.out.println("the first characater is as same as the last one");}
 		else {System.out.println("the first characater is not as same as the last one");}
+		//make a statement for the next condition of this loop
 		Scanner keyboard = new Scanner(System.in);
 		entered = keyboard.nextLine();
 		b = entered.equals(done);
-		//make a statement for the next condition of this loop
+		
    }while (b == false);
 }
 

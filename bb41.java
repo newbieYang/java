@@ -1,5 +1,6 @@
 //author: Zoe Yang
 //github name:newbieYang
+//class:2019 fall csc200 040N
 //date:10/27/2019
 import java.util.Scanner;
 

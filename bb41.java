@@ -1,3 +1,6 @@
+//author: Zoe Yang
+//github name:newbieYang
+//date:10/27/2019
 import java.util.Scanner;
 
 public class bb41 {
